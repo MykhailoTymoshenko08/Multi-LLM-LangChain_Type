@@ -63,7 +63,7 @@ Multi-LLM-LangChain_Type/
 ## Usage
 1. Run the project:
    ```bash
-   API_KEY=your_openrouter_api_key
+   python main.py
    ```
    
 2. The program will prompt you to enter a request:
