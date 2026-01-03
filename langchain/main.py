@@ -40,7 +40,7 @@ def main():
         "mistralai/devstral-2512:free",
         "google/gemini-2.0-flash-exp:free",
         "google/gemma-3-27b-it:free",
-        "openai/gpt-oss-120b:free",``
+        "openai/gpt-oss-120b:free",
         "deepseek/deepseek-r1-0528:free",
         "meta-llama/llama-3.3-70b-instruct:free",
     ]
