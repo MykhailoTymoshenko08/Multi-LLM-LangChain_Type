@@ -28,11 +28,10 @@ The program takes a user prompt and sends it to several models in sequence, retu
 ## Project Structure
 ```
 Multi-LLM-LangChain_Type/
-│── langchain/
-│   ├── main.py        # Main code
-│   ├── .env           # API_KEY (do not push to GitHub!)
-│   └── .gitignore     # Ignored files
-│── README.md          # Documentation
+│── main.py       # Main code
+│── .env          # API_KEY (do not push to GitHub!)
+│── .gitignore    # Ignored files
+│── README.md     # Documentation
 ```
 
 ---
@@ -81,4 +80,5 @@ Multi-LLM-LangChain_Type/
    --------------------------------------------------
    ...
    ```
+
 
